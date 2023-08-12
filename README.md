@@ -1,16 +1,13 @@
-# smart_learn
+# Smart Learn 
 
-A new Flutter project.
+It is a Flutter Based Application , designed to provide a centralized location for all the freely available resources at one place.
 
-## Getting Started
+# App Modules 
 
-This project is a starting point for a Flutter application.
+It has 2 Modules at present & they are :
+- Programming
+- UPSC
 
-A few resources to get you started if this is your first Flutter project:
+Each Module Contains , Sub Modules & Within Sub , Sub Modules 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
